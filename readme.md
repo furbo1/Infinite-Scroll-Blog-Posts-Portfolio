@@ -8,3 +8,5 @@ Display blog posts from [jsonplaceholder](https://jsonplaceholder.typicode.com) 
 - Fetch initial posts from API and display
 - Scroll down, show loader and fetch next set of posts
 - Add filtering for fetched posts
+- View/test it here: https://furbo1.github.io/Infinite-Scroll-Blog-Posts-Portfolio/
+
